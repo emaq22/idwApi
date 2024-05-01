@@ -1,0 +1,10 @@
+/* style.css */
+/* Estilos para el h1 */
+h1 {
+    font-family: 'Times New Roman', Times, serif; /* Cambia la fuente a Times New Roman o una fuente similar */
+    color: rgba(131, 41, 41, 0.788); /* Cambia el color del texto a un tono de rojo */
+}
+
+body {
+    background-color: rgb(182, 227, 255);
+}
